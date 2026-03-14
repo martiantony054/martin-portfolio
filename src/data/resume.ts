@@ -7,7 +7,7 @@ export const resumeData = {
     email: "martinantony054@gmail.com",
     phone: "+91 9109011964",
     links: {
-      linkedin: "https://www.linkedin.com/in/martin-antony-78065a241",
+      linkedin: "linkedin.com/in/martin-antony-78065a241",
       github: "github.com/martiantony054"
     }
   },
